@@ -11,13 +11,13 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://documentacion.chat.buho.la',
+  url: 'https://nachito182.github.io/documentacion/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/documentacion/',
 
   // GitHub pages deployment config.
-  organizationName: 'chatbuho',
+  organizationName: 'Nachito182',
   projectName: 'documentacion',
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
@@ -63,7 +63,7 @@ const config = {
         title: '',
         logo: {
           alt: 'Documentación de Chat Buho',
-          src: 'https://i.ibb.co/5YFv5Kp/Adidas.jpg',
+          src: 'https://upload.wikimedia.org/wikipedia/commons/2/24/LEGO_logo.svg',
         },
         items: [
           // {
